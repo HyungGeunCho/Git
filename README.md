@@ -1,2 +1,0 @@
-# Git
-Bebop design files
